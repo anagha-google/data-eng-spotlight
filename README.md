@@ -6,7 +6,7 @@ This repo has (DIY) self-paced, hands-on labs for Spark on GCP. It is a communit
 | # |  Focus | Link | Depends on | 
 | -- | :--- | :--- | :--- | 
 | 1 | Terraform automation of Organization policies and Google API enabling | Link | 
-| 2 | Terraform automation of everything else | Link |  | #1 |
+| 2 | Terraform automation of everything else | Link | #1 |
 
 
 ### Labs
