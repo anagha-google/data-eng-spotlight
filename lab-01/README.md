@@ -2,9 +2,12 @@
 
 This lab is data engineering centric and uses rules based processing to detect defective cell towers needing maintenance. It is self-contained and fully scripted to follow along at your own pace.
 
+The PySpark code for this lab was developed by TekSystems.
+
 ## 1. Prerequisites
 
-Successful environment creation per instructions in go/scw-tf
+Run the Terraform setup for the lab.
+
 
 ## 2. Lab overview
 
