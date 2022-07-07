@@ -1,10 +1,10 @@
-# Lab 1: Cell Tower Anomany Detection
+# Hands-on Lab: Cell Tower Anomaly Detection 
 
-This lab is data engineering centric and uses rules based processing to detect defective cell towers needing maintenance. It is self-contained and fully scripted to follow along at your own pace.
+This lab is data engineering centric and uses rules based processing in PySpark to detect defective cell towers needing maintenance. It is self-contained (code, data, and more) and fully scripted (step by step instructions) to follow along at your own pace. It includes orchestration via Apache Airflow powered by Cloud Composer.
 
 ## 1. Prerequisites
 
-Successful environment creation per instructions in go/scw-tf
+
 
 ## 2. Lab overview
 
